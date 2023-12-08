@@ -44,7 +44,7 @@ This repository is focusing on these following bulletpoints:
 1. Clone this Repository by running `git clone https://github.com/nickoaryad/Capital-Bikeshare-IDCamp2023.git`.
 2. Open Windows terminal or power shell.
 3. Run `pipenv install` to install Python virtual environment.
-4. Run `pipenv shell --fancy--` to activate the virtual environment.
+4. Run `pipenv shell --fancy` to activate the virtual environment.
 5. Run `pip install -r requirements.txt` to install all libraries. 
 6. Run `jupyter-notebook` from shell open Jupyter Notebook.
 7. Select `notebook.ipynb`.
