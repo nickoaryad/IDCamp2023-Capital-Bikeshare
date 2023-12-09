@@ -38,7 +38,7 @@ This repository is focusing on these following bulletpoints:
 
 ## The Execution ▶
 **`notebook.ipynb`**
-1. Clone this Repository by running `git clone https://github.com/nickoaryad/Capital-Bikeshare-IDCamp2023.git`.
+1. Clone this Repository by running `git clone https://github.com/nickoaryad/IDCamp2023-Capital-Bikeshare.git`.
 2. Open Windows terminal or power shell.
 3. Run `pipenv install` to install Python virtual environment.
 4. Run `pipenv shell --fancy` to activate the virtual environment.
@@ -49,7 +49,7 @@ This repository is focusing on these following bulletpoints:
 9. Run the code cells.
 
 **`/dashboard/dashboard.py`**
-1. Clone this repository by running `git clone https://github.com/nickoaryad/Capital-Bikeshare-IDCamp2023.git`.
+1. Clone this repository by running `git clone https://github.com/nickoaryad/IDCamp2023-Capital-Bikeshare.git`.
 2.  Open Windows terminal or power shell.
 3.  Run `pip install streamlit` to install Streamlit.
 4.  Run `pipenv install` to install Python virtual environment.
