@@ -22,22 +22,19 @@ This repository is focusing on these following bulletpoints:
 * Season wise hourly distribution of bike rentals
 
 ## The Directory 📂
-* `/assets`: stores image and video assets used in this project
 * `/dashboard`: contains the file bikeshare_dashboard.py which stores the functions needed by the dashboard
 * `/dataset`: stores dataset used in this project
 * `README.md`: file that provides information about this GitHub project
-* `app.py`: main file to run the dashboard
 * `notebook.ipynb`: interactive jupyter notebook files to analyze data
 * `requirements.txt`: file that stores information about the libraries used in this project
 
 ## The Libraries 📚
-* `os` library to work within Google Colaboration operating system environment
-* `files` library to upload or download from and to Google Colaboratory storage session
-* `zipfile` library to read and write ZIP file
 * `numpy` library to carry out numerical computation such as sets, arrays, multidimension matrixes, and vectors
 * `pandas` library to undergo data processing, analysing, and manipulation.
 * `seaborn` library to develop statistical data visualization based on `matplotlib`
 * `matplotlib` library to perform visualization using plotting
+* `plotly.express` library to perform interactive plotting
+* `streamlit` library to develop interactive dashboard
 
 ## The Execution ▶
 **`notebook.ipynb`**
@@ -61,3 +58,5 @@ This repository is focusing on these following bulletpoints:
 7.  Run `streamlit run dashboard.py` to execute the dashboard Python file.
 
 ---
+
+Copyright © 2023 All Rights Reserved
