@@ -1,4 +1,4 @@
-![](https://cdn.lyft.com/static/bikesharefe/logo/CapitalBikeshare-main.svg)
+![image](https://github.com/nickoaryad/IDCamp2023-Capital-Bikeshare/assets/153177885/7ce89755-ed27-448c-aef0-e1a04d40991a)![](https://cdn.lyft.com/static/bikesharefe/logo/CapitalBikeshare-main.svg)
 ![](https://images.ctfassets.net/p6ae3zqfb1e3/7EvTCz4yh5EjYm5PBF2F7b/2af90f1c0cf365a12d088f5021cb0b6d/CaBi_CaBiforEveryone_Hero_2x.png?w=1500&q=60&fm=webp)
 
 *Image from [https://capitalbikeshare.com/](https://capitalbikeshare.com//)*
@@ -22,11 +22,13 @@ This repository is focusing on these following bulletpoints:
 * Season wise hourly distribution of bike rentals
 
 ## The Directory 📂
+* `/assets` : contains pictures which are used in this project
 * `/dashboard`: contains the file bikeshare_dashboard.py which stores the functions needed by the dashboard
 * `/dataset`: stores dataset used in this project
 * `README.md`: file that provides information about this GitHub project
 * `notebook.ipynb`: interactive jupyter notebook files to analyze data
 * `requirements.txt`: file that stores information about the libraries used in this project
+* `license.txt` : file that maintain license of copy right of the dataset owners
 
 ## The Libraries 📚
 * `numpy` library to carry out numerical computation such as sets, arrays, multidimension matrixes, and vectors
@@ -59,6 +61,9 @@ This repository is focusing on these following bulletpoints:
 
 ---
  Open in Streamlit ![image](https://github.com/nickoaryad/IDCamp2023-Capital-Bikeshare/assets/153177885/2941445b-6bbe-4c3c-a4f3-29b6e3c9094b)
+
+ ![](https://raw.githubusercontent.com/nickoaryad/IDCamp2023-Capital-Bikeshare/main/assets/Dashboard_screenshoot1.jpg)
+ ![](https://raw.githubusercontent.com/nickoaryad/IDCamp2023-Capital-Bikeshare/main/assets/Dashboard_screenshoot2.jpg)
 
 
 Copyright © 2023 All Rights Reserved
