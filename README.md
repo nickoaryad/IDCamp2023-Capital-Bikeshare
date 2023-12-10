@@ -1,4 +1,4 @@
-![image](https://github.com/nickoaryad/IDCamp2023-Capital-Bikeshare/assets/153177885/7ce89755-ed27-448c-aef0-e1a04d40991a)![](https://cdn.lyft.com/static/bikesharefe/logo/CapitalBikeshare-main.svg)
+![](https://cdn.lyft.com/static/bikesharefe/logo/CapitalBikeshare-main.svg)
 ![](https://images.ctfassets.net/p6ae3zqfb1e3/7EvTCz4yh5EjYm5PBF2F7b/2af90f1c0cf365a12d088f5021cb0b6d/CaBi_CaBiforEveryone_Hero_2x.png?w=1500&q=60&fm=webp)
 
 *Image from [https://capitalbikeshare.com/](https://capitalbikeshare.com//)*
