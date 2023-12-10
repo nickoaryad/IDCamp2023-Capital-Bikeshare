@@ -25,10 +25,10 @@ This repository is focusing on these following bulletpoints:
 * `/assets` : contains pictures which are used in this project
 * `/dashboard`: contains the file bikeshare_dashboard.py which stores the functions needed by the dashboard
 * `/dataset`: stores dataset used in this project
-* `README.md`: file that provides information about this GitHub project
 * `notebook.ipynb`: interactive jupyter notebook files to analyze data
-* `requirements.txt`: file that stores information about the libraries used in this project
+* `README.md`: file that provides information about this GitHub project
 * `license.txt` : file that maintain license of copy right of the dataset owners
+* `requirements.txt`: file that stores information about the libraries used in this project
 
 ## The Libraries 📚
 * `numpy` library to carry out numerical computation such as sets, arrays, multidimension matrixes, and vectors
@@ -52,12 +52,12 @@ This repository is focusing on these following bulletpoints:
 
 **`/dashboard/dashboard.py`**
 1. Clone this repository by running `git clone https://github.com/nickoaryad/IDCamp2023-Capital-Bikeshare.git`.
-2.  Open Windows terminal or power shell.
-3.  Run `pip install streamlit` to install Streamlit.
-4.  Run `pipenv install` to install Python virtual environment.
-5.  Run `pipenv shell --fancy` to activate the virtual environment.
-6.  Run `pip install -r requirements.txt` to install all libraries.
-7.  Run `streamlit run dashboard.py` to execute the dashboard Python file.
+2. Open Windows terminal or power shell.
+3. Run `pip install streamlit` to install Streamlit.
+4. Run `pipenv install` to install Python virtual environment.
+5. Run `pipenv shell --fancy` to activate the virtual environment.
+6. Run `pip install -r requirements.txt` to install all libraries.
+7. Run `streamlit run dashboard.py` to execute the dashboard Python file.
 
 ---
  
