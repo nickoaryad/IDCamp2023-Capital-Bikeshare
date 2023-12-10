@@ -58,5 +58,7 @@ This repository is focusing on these following bulletpoints:
 7.  Run `streamlit run dashboard.py` to execute the dashboard Python file.
 
 ---
+ Open in Streamlit ![image](https://github.com/nickoaryad/IDCamp2023-Capital-Bikeshare/assets/153177885/2941445b-6bbe-4c3c-a4f3-29b6e3c9094b)
+
 
 Copyright © 2023 All Rights Reserved
