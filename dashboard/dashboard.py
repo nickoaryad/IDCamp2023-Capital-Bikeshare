@@ -1,5 +1,5 @@
 '''
-Code Writer: Nicko Arya Dharma
+Author: Nicko Arya Dharma
 Date: 09/12/2023
 Dataset License: Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
 '''
@@ -17,7 +17,7 @@ import datetime
 import calendar
 
 #-----Loading Data-----
-df = pd.read_csv("./hour_clean.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/nickoaryad/IDCamp2023-Capital-Bikeshare/main/dashboard/hour_clean.csv")
 df['dteday'] = pd.to_datetime(df['dteday'])
 
 #-----Dataframe Function-----
@@ -125,9 +125,8 @@ max_date = df["dteday"].max()
 
 #-----Sidebar-----
 with st.sidebar:
-    # Add logo
-    local_image_path = "./CapitalBikeshare_logo.jpg"
-    st.image(local_image_path)
+    # Add logo   
+    st.markdown("[![CapitalBikeshare](https://raw.githubusercontent.com/nickoaryad/IDCamp2023-Capital-Bikeshare/main/assets/CapitalBikeshare_logo.jpg)](https://capitalbikeshare.com)")
     st.sidebar.header("")
     # Assign date selected
     def on_change():
@@ -147,15 +146,15 @@ with st.sidebar:
     st.sidebar.header("Thank you to:")
     col1, col2 = st.columns(2)
     with col1:
-        st.image("./IDCamp2023_logo.png")
+        st.image("https://raw.githubusercontent.com/nickoaryad/IDCamp2023-Capital-Bikeshare/main/assets/IDCamp2023_logo.png")
     with col2:
-        st.image("./Dicoding_logo.jpg") 
+        st.image("https://raw.githubusercontent.com/nickoaryad/IDCamp2023-Capital-Bikeshare/main/assets/Dicoding_logo.jpg") 
     st.sidebar.header("Connect with me:")
     col1, col2 = st.columns(2)
     with col1:
-        st.markdown("[![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/nickoaryadharma/)")
+        st.markdown("[![LinkedIn](https://raw.githubusercontent.com/nickoaryad/IDCamp2023-Capital-Bikeshare/main/assets/Linkedin_logo.jpg)](https://www.linkedin.com/in/nickoaryadharma)")
     with col2:
-        st.markdown("[![Github](https://img.icons8.com/glyph-neue/64/FFFFFF/github.png)](https://github.com/nickoaryad)") 
+        st.markdown("[![Github](https://raw.githubusercontent.com/nickoaryad/IDCamp2023-Capital-Bikeshare/main/assets/GitHub_logo.jpg)](https://github.com/nickoaryad)") 
 
 if len(date) == 2:
     main_df = df[
@@ -183,7 +182,7 @@ col1, col2 = st.columns([2,1])
 with col1:
     st.title(":blue[CAPITAL] :orange[BIKESHARE]")
 with col2:
-    st.image("./CapitalBikeshare.jpg")
+    st.image("https://raw.githubusercontent.com/nickoaryad/IDCamp2023-Capital-Bikeshare/main/assets/CapitalBikeshare.jpg")
 
 st.markdown("---")
 
