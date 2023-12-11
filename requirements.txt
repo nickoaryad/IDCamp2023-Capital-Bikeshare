@@ -1,8 +1,8 @@
 ﻿pandas==2.1.1
 numpy==1.23
-matplotlib==5.17.0
+matplotlib==3.7.0
 plotly.express==5.11.0
 seaborn==0.13.0
 streamlit==1.27.1
-jupyter==4.0.9
+jupyter==7.0.1
 zipfile==3.3
