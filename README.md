@@ -11,7 +11,7 @@ Welcome to the README of **Data Analysis Project: Capital Bikeshare System**.
 This repository uses the **Capital Bikeshare** dataset, available [here](http://capitalbikeshare.com/system-data). Weather information are extracted from [here](http://www.freemeteo.com). The data for this repository is present within the DATASET folder downloaded from [here](https://drive.google.com/file/d/1RaBmV6Q6FYWU4HWZs80Suqd7KQC34diQ/view?usp=sharing).
 
 ## The Devs ✒️
-This repository is developed as Final Assignment of **Belajar Analisis Data dengan Python** module, a part of **Data Science** class of **IDCamp2023** organized by **Dicoding**. 
+This repository is developed as Final Assignment of **Belajar Analisis Data dengan Python** module, a part of **Data Science** learning path of **Dicoding** awarded by IDCamp 2023. 
 
 ## The Problems 📝
 This repository is focusing on these following bulletpoints:
