@@ -61,7 +61,7 @@ This repository is focusing on these following bulletpoints:
 
 ---
  
-Click to open in Streamlit &rarr [![](https://raw.githubusercontent.com/nickoaryad/IDCamp2023-Capital-Bikeshare/main/assets/streamlit_logo.png)](https://nickoaryad-dashboard-capitalbikeshare.streamlit.app/)
+Click to open in Streamlit ➜ [![](https://raw.githubusercontent.com/nickoaryad/IDCamp2023-Capital-Bikeshare/main/assets/streamlit_logo.png)](https://nickoaryad-dashboard-capitalbikeshare.streamlit.app/)
 
  ![](https://raw.githubusercontent.com/nickoaryad/IDCamp2023-Capital-Bikeshare/main/assets/Dashboard_screenshoot1.jpg)
  
